@@ -6,11 +6,8 @@
     align-items: center; /* Optional: Center items vertically */
 }
 
-.nav-left {
-    /* float: left; Remove float property */
-}
-
 .nav-fill {
+    flex: 1;
     display: flex;
     justify-content: center;
 }
