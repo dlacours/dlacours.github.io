@@ -5,6 +5,7 @@
     justify-content: space-between; /* Optional: Adjust as needed */
     align-items: center; /* Optional: Center items vertically */
     padding: 0;
+    height: 50px;
 }
 
 .nav-fill {
