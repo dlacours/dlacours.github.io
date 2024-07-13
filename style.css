@@ -9,9 +9,6 @@
     display: flex;
     justify-content: center;
 }
-.nav-right {
-    float: right;
-}
 .navbar a {
 float: left;
 display: block;
@@ -29,7 +26,7 @@ text-decoration: none;
     color: #000000;
 }
 .navbar img{
-    height: 40px;
+    height: 10px;
     padding: 10px;
 }
 body {
