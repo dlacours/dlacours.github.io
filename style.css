@@ -71,16 +71,19 @@ a {
     font-size: 18px;
     line-height: 1.5;
     margin-bottom: 10px;
+    font-family: sans-serif;
 }
 
 .quote .myname {
     font-style: bold;
     font-size: 40px;
     margin-top: 10px;
+    font-family: sans-serif;
 }
 
 .quote .welcome {
     font-style: bold;
     font-size: 20px;
     margin-top: 10px;
+    font-family: sans-serif;
 }
