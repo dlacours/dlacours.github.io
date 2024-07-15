@@ -52,8 +52,8 @@ a {
 .quotecontainer {
     position: absolute;
     top: 25%;
-    left: 50%;
-    transform: translate(-75%, -50%);
+    left: 25%;
+    transform: translate(-50%, -50%);
     width: 300px;
     background-color: gray;
     padding: auto;
