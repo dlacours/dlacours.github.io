@@ -192,3 +192,58 @@ body {
 }
 
 }
+.bookscontainer{
+    position: absolute;
+    display: flex;
+    top: 14.25vh;
+    justify-content: space-between;
+    padding: 0;
+    height: 100%;
+    right: 8px;
+    left: 8px;
+    background-color: violet;
+    text-align: justify;
+}
+
+.book1{
+    width: 100%;
+    background-color: green;
+    height: 20vw;
+    text-align: left;
+}
+
+.book1 img{
+    display: flex;
+    width: auto;
+    height: 80%;
+}
+
+.book1 p2{
+    
+}
+
+.bookscontainer a{
+    padding: 0%;
+    display: flexbox;
+    border-color: #000000;
+    width: 25%;
+    height: 100%;
+    color: black;
+}
+
+.bookscontainer a:hover {
+    background-color: transparent;
+    color: black;
+}
+
+.bookscontainer p1{
+    display: flex;
+    border-style: solid;
+    border-color: #000000;
+    padding: 5% 5%;
+    color: black;
+    text-align: left;
+    font-size: 180%;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
